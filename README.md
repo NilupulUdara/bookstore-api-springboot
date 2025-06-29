@@ -26,11 +26,3 @@ A full-featured RESTful Bookstore API built with Spring Boot, MySQL, and JPA. Th
 - 🛠️ Built with clean layered architecture (Controller, Service, Repository, DTO, Mapper)
 
 ---
-
-## 📦 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/bookstore-api.git
-cd bookstore-api
